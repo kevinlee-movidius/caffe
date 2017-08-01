@@ -42,4 +42,4 @@ Please cite Caffe in your publications if it helps your research:
       Journal = {arXiv preprint arXiv:1408.5093},
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
-    }
+  }
